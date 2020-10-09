@@ -1,4 +1,4 @@
-from tkinter import *
+import tkinter as tk
 from PIL import Image
 from PIL import ImageTk
 import cv2, threading, os, time
