@@ -2,4 +2,4 @@ dlib
 numpy
 opencv-python
 pillow
-
+tkinter
